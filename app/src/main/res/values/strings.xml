@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PopupMenuExample</string>
+
+    <string name="item_newIdea">New Idea</string>
+    <string name="item_openIdea">Open Idea</string>
+    <string name="item_analyzeIdea">Analyze Idea</string>
+
+    <string name="popup_menu_button">PopupMenu</string>
+
+</resources>
